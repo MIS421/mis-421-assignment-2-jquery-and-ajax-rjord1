@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\SP2024-Assignment-2.props" />
-</Project>

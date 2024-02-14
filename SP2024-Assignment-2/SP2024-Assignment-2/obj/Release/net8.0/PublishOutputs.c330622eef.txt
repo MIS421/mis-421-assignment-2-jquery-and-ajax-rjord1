@@ -1,7 +1,0 @@
-C:\Users\rjica\Downloads\cmder\MIS 421\SP2024-Assignment-2\SP2024-Assignment-2\obj\Release\net8.0\PubTmp\Out\SP2024-Assignment-2.exe
-C:\Users\rjica\Downloads\cmder\MIS 421\SP2024-Assignment-2\SP2024-Assignment-2\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
-C:\Users\rjica\Downloads\cmder\MIS 421\SP2024-Assignment-2\SP2024-Assignment-2\obj\Release\net8.0\PubTmp\Out\appsettings.json
-C:\Users\rjica\Downloads\cmder\MIS 421\SP2024-Assignment-2\SP2024-Assignment-2\obj\Release\net8.0\PubTmp\Out\SP2024-Assignment-2.dll
-C:\Users\rjica\Downloads\cmder\MIS 421\SP2024-Assignment-2\SP2024-Assignment-2\obj\Release\net8.0\PubTmp\Out\SP2024-Assignment-2.deps.json
-C:\Users\rjica\Downloads\cmder\MIS 421\SP2024-Assignment-2\SP2024-Assignment-2\obj\Release\net8.0\PubTmp\Out\SP2024-Assignment-2.runtimeconfig.json
-C:\Users\rjica\Downloads\cmder\MIS 421\SP2024-Assignment-2\SP2024-Assignment-2\obj\Release\net8.0\PubTmp\Out\SP2024-Assignment-2.pdb
